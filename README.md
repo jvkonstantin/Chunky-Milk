@@ -6,7 +6,7 @@ Contact Me
 
 [Website]
 
-[![Website](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Website%20link%20png.png?raw=true)](https://touchmyfries.info/)
+[![Website](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/DTMF%20pfp%20server.png)](https://touchmyfries.info/)
 
 Twitter
 
