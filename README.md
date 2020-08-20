@@ -5,7 +5,7 @@ Contact Me
 ==========
 
 [Website]
-[Website](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Website%20link%20png.png?raw=true)(https://touchmyfries.info/)
+![Website](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Website%20link%20png.png?raw=true)(https://touchmyfries.info/)
 
 Twitter
-[Twitter](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Twitter%20logo.png?raw=true)(https://twitter.com/KappaNewfrog)
+![Twitter](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Twitter%20logo.png?raw=true)(https://twitter.com/KappaNewfrog)
