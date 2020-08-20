@@ -4,8 +4,8 @@ Chunky Milk is a collection of terminal type tools that every developer might wa
 Contact Me
 ==========
 
-[Website()](https://youtu.be/VJgk-dCmP3U)
+[Website]
+[Website](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Website%20link%20png.png?raw=true)(https://touchmyfries.info/)
 
-[Website](https://touchmyfries.info/)
-
-[Twitter](https://twitter.com/KappaNewfrog)
+Twitter
+[Twitter](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Twitter%20logo.png?raw=true)(https://twitter.com/KappaNewfrog)
