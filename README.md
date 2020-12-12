@@ -6,7 +6,7 @@ Contact Me
 
 [Website]
 
-[Click here to go to the website!](https://touchmyfries.info/)
+[Click here to go to the website!](https://wikilines.herokuapp.com/)
 
 Twitter
 
