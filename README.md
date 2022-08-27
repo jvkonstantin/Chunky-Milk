@@ -10,4 +10,4 @@ Contact Me
 
 Twitter
 
-[![Twitter](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Twitter%20logo.png?raw=true)](https://twitter.com/KappaNewfrog)
+[![Twitter](https://github.com/Kappa-c0dex/Chunky-Milk/blob/master/img/Twitter%20logo.png?raw=true)](https://twitter.com/jvkonstantin)
